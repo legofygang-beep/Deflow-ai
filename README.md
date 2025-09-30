@@ -7,7 +7,7 @@ Here’s the **final `README.md` file** you can copy directly into your repo �
 ````markdown
 # 🚀 PerpNova Agent  
 
-**PerpNova Agent** is an AI-powered blockchain trading assistant.  
+**Deflow Agent** is an AI-powered blockchain trading assistant.  
 It combines **Solscan**, **Dexscreener**, and **Orderly (Perps)** into one tool.  
 
 - 📊 View wallet balances & tokens (Solscan)  
@@ -62,7 +62,7 @@ ORDERLY_WS_URL=wss://stream.orderly.network
 When you run `npm run demo`, you’ll see something like:
 
 ```
-🚀 PerpNova Agent Demo
+🚀 Deflow Ai Agent Demo
 =======================
 
 📊 Wallet Portfolio
